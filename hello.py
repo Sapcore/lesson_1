@@ -1,0 +1,6 @@
+name = input('What is your name? ')
+print('Hello World!')
+print('Hello programmer!')
+print(2 + 2)
+print(10 / 3)
+print('And also, hello', name)
